@@ -4,7 +4,7 @@
 **Date:** November 13, 2024  
 
 ## Purpose
-This project aims to scrape data from Basketball Reference for the 2020-24 NBA seasons, analyze the data, and answer questions regarding team performance metrics.
+This project scrapes data from Basketball Reference for the 2020-24 NBA seasons, analyzes the data, and answers questions regarding team performance metrics.
 
 ## Files in the Repository
 - **Part 2 - Web Scraped Data Analysis and Visualizations.ipynb**: Contains the code for web scraping NBA statistics, data analysis, and visualizations
